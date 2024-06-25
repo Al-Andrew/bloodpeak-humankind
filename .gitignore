@@ -6,3 +6,6 @@ build/
 .DS_Store
 
 
+# ide stuff
+compile_commands.json
+.vscode
